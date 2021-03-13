@@ -1,0 +1,1 @@
+# Solving-1D-Schrodinger-Eqn

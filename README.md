@@ -10,7 +10,7 @@ We have tested our code on:
 3. Morse Potential
 4. Ammonia Inversion Potential
 
-**Citation**
+**Citation :**
 
 Aniruddha Seal, Uday Sankar, Aditi Pradhan, Sangita Mandal, Upakarasamy Lourderaj* "Numerical Solutions to Schrödinger Equation for Bounded Potentials using Python in Undergraduate Quantum Chemistry" in preparation 
 

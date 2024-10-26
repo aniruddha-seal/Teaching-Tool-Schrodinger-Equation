@@ -12,9 +12,3 @@ We have tested our code on:
 4. Ammonia Inversion Potential
 
 **Requirement:** Python 3, Numpy, Scipy
-
-**Citation :**
-
-Aniruddha Seal, Uday Sankar, Aditi Pradhan, Sangita Mandal, Upakarasamy Lourderaj* "Numerical Solutions to Schrödinger Equation for Bounded Potentials using Python in Undergraduate Quantum Chemistry" in preparation 
-
-If you have suggestions for improving this code, if you notice a mistake, or if anything is otherwise unclear, please feel free to [email me](mailto:aniruddha.seal@niser.ac.in) or [email uday](mailto:udaysankar.m@niser.ac.in)

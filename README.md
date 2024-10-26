@@ -1,5 +1,6 @@
 # Solving-1D-Schrodinger-Eqn
-## The set of codes we wrote implementing a Explosion Minimization Method(that's how we name it !!) and Numerov's method
+
+The set of codes we wrote implementing a Explosion Minimization Method(that's how we name it !!) and Numerov's method
 
 **Authors :** Uday Sankar and Aniruddha Seal
 
